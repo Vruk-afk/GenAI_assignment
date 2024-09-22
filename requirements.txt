@@ -1,9 +1,7 @@
-unstructured
-tiktoken
-pinecone-client
-pypdf
+streamlit
+azure
+azure
+tabulate  
+chromadb  
+chromadb
 openai
-langchain
-pandas 
-numpy
-python-dotenv
